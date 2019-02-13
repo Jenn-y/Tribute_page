@@ -1,0 +1,52 @@
+body{
+	background-color: #3b5f70;
+}
+#img-caption, #signature, #name, #txt, #text, #list-text, #list, #footer {
+	font-family: Helvetica;
+}
+#img{
+	width: 800px;
+	height: 600px;
+	padding-top: 40px;
+	padding-left: 230px;
+}
+#img-div{
+	background-color: #c1bba8;
+}
+#img-caption{
+	font-style: italic;
+	font-size: 20px;
+	text-align: center;
+}
+#signature{
+	text-align: right;
+	font-size: 25px;
+	padding-right: 20px;
+}
+#title{
+	background-color: #cfd4d6;
+}
+#name{
+	text-align: center;
+	padding-top: 20px;
+}
+#txt{
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+#text{
+	font-size: 18px;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#list-text, #list{
+	font-size: 18px;
+	padding-left: 50px;
+}
+#footer{
+	font-size: 25px;
+	text-align: center;
+}
